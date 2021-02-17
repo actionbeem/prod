@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kiosk-notices", {data:[],fetch:[],mutations:[["auth\u002FSET",{key:"redirect",value:"\u002Fkiosk-notices"}]]});

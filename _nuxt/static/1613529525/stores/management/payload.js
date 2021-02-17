@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/stores/management", {data:[],fetch:[],mutations:[["auth\u002FSET",{key:"redirect",value:"\u002Fstores\u002Fmanagement"}]]});
