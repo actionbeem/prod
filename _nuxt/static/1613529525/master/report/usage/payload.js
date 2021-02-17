@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/master/report/usage", {data:[],fetch:[],mutations:[["auth\u002FSET",{key:"redirect",value:"\u002Fmaster\u002Freport\u002Fusage"}]]});

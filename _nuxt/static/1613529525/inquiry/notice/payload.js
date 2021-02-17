@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/inquiry/notice", {data:[],fetch:[],mutations:[["auth\u002FSET",{key:"redirect",value:"\u002Finquiry\u002Fnotice"}]]});
